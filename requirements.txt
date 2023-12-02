@@ -8,8 +8,5 @@ numpy
 pandas
 matplotlib
 scipy
-hashlib
 pytube
-decouple
 pydantic
-tqdm
